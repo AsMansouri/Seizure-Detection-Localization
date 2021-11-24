@@ -1,6 +1,7 @@
-Seizure Detection and Localization using EEG signals
+# Seizure Detection and Localization using EEG signals
+
 Epilepsy is one of the three most prevalent neurological disorders. A significant proportion of patients suffering from epilepsy can be effectively treated if their seizures are detected in a timely manner. However, detection of most seizures requires the attention of trained neurologists—a scarce resource. Therefore, there is a need for an automatic seizure detection capability. A tunable non-patient-specific, non-seizure-specific method is proposed to detect the presence and locality of a seizure using electroencephalography (EEG) signals. This multifaceted computational approach is based on a network model of the brain and a distance metric based on the spectral profiles of EEG signals. This computationally time-efficient and cost-effective automated epileptic seizure detection algorithm has a median latency of 8 s, a median sensitivity of 83%, and a median false alarm rate of 2.9%. Hence, it is capable of being used in portable EEG devices to aid in the process of detecting and monitoring epileptic patients.
 
-Mansouri, Amirsalar, Sanjay P. Singh, and Khalid Sayood. "Online EEG Seizure Detection and Localization." Algorithms 12.9 (2019): 176.
+[Mansouri, Amirsalar, Sanjay P. Singh, and Khalid Sayood. "Online EEG Seizure Detection and Localization." Algorithms 12.9 (2019): 176.](https://www.mdpi.com/1999-4893/12/9/176)
 
-Mansouri, Amirsalar, Sanjay Singh, and Khalid Sayood. “Hierarchal Online Temporal and Spatial EEG Seizure Detection.” 2017 IEEE International Conference on Electro Information Technology (EIT) (May 2017).
+[Mansouri, Amirsalar, Sanjay Singh, and Khalid Sayood. “Hierarchal Online Temporal and Spatial EEG Seizure Detection.” 2017 IEEE International Conference on Electro Information Technology (EIT) (May 2017).](https://ieeexplore.ieee.org/document/8053397)
